@@ -34280,15 +34280,15 @@
     },
     {
       "chainId": 101,
-      "address": "29MpnFsGVVnsoxCt4f4TjShuzTSgbEh5UrVeSNEFFBsF",
+      "address": "A9bQVYHePdN4LaW7BAXm1aL69SMGZ62LqLkeyPjP3rpN",
       "symbol": "TERPS",
-      "name": "TERPENES",
+      "name": "TERPS TOKEN",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/29MpnFsGVVnsoxCt4f4TjShuzTSgbEh5UrVeSNEFFBsF/logo.png",
-      "tags": [
-        "social-token",
-        "utility-token"
-      ]
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A9bQVYHePdN4LaW7BAXm1aL69SMGZ62LqLkeyPjP3rpN/logo.png",
+      "extensions": {
+        "twitter": "https://twitter.com/KryptoKronicNFT",
+        "website": "https://kryptokronic.io/"
+      }
     },
     {
       "chainId": 101,
@@ -87572,11 +87572,11 @@
     },
     {
       "chainId": 101,
-      "address": "Cvzwk5dvHu67n2b4BDMNQ7VTQ4G2XRQ6hN3uDBPmD9vt",
+      "address": "6RUV3rfx3q4n7UEJcARs9gCibB3TD5pgrxha1LmQwptV",
       "symbol": "WLZVC",
       "name": "Zombieverse Whitelist",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3x4DKbtWYkw9SigBp7LbeT96MLw68wpWVC4ZUtCp1Gvz/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Cvzwk5dvHu67n2b4BDMNQ7VTQ4G2XRQ6hN3uDBPmD9vt/logo.png",
       "tags": [
         "WriteToEarn",
         "Zombieverse",
@@ -106464,7 +106464,7 @@
       "symbol": "ENUM",
       "name": "Enum Coin",
       "decimals": 0,
-      "logoURI": "https://github.com/chrismengle/crypto/blob/main/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/chrismengle/crypto/main/logo.png",
       "tags": [
         "social-token"
       ]
@@ -118809,17 +118809,6 @@
     },
     {
       "chainId": 101,
-      "address": "8YLVNaqXNL77NrW8J56SgT2ibUk1nekXAARz2TtBrenS",
-      "symbol": "CRECK",
-      "name": "CRECK",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8YLVNaqXNL77NrW8J56SgT2ibUk1nekXAARz2TtBrenS/logo.png",
-      "tags": [
-        "social-token"
-      ]
-    },
-    {
-      "chainId": 101,
       "address": "5W5vGGnpfU6PykJuexUPbbgcs2mJQ7ywq8s7GWEqb2c9",
       "symbol": "CHF",
       "name": "CheF'N",
@@ -121498,6 +121487,17 @@
         "twitter": "https://twitter.com/419NFT",
         "website": "https://419.so"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "9uGQwUDHErypQa317fherN2tmTbGh9L9My16t2eEVomS",
+      "symbol": "WPSC",
+      "name": "WPScreators",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/wpscreatros/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
