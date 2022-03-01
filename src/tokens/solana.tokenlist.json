@@ -121448,8 +121448,9 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/nawrasco/Crypto/main/UKR.png",
       "tags": [
-        "stablecoin",
-        "LP-Finance"
+        "social-token",
+        "community-token",
+        "NFT"
       ],
       "extensions": {
         "telegram": "https://t.me/ukrcrypto",
